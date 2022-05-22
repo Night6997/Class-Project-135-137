@@ -1,0 +1,36 @@
+body
+{
+    background-size: cover;
+}
+.heading
+{
+    font-size: 25px;
+    width: 100%;
+    color: darkslateblue;
+    margin: 0px;
+}
+.startButton
+{
+    font-size: 16px;
+    color: darkslategray;
+}
+canvas
+{
+    margin-top: 130px;
+    border: 5px solid steelblue;
+    border-radius: 25px;
+    box-shadow: 6px 6px 6px midnightblue;
+}
+#status , #ObjectsDetected
+{
+    font-size:14px;
+}
+.footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color:slategrey;
+    color:lightcoral;
+    text-align: center;
+}
